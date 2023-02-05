@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "my_photofolio_for_vue3", "My_PhotoFolio_for_Vue3\my_photofolio_for_vue3.esproj", "{34348BAF-2E23-464A-9E48-95E0DE1CEABD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "my_photofolio_for_vue_backend", "my_photofolio_for_vue_backend\my_photofolio_for_vue_backend.csproj", "{FD56E671-AC5D-464D-A459-7A52665BB1A5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{34348BAF-2E23-464A-9E48-95E0DE1CEABD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34348BAF-2E23-464A-9E48-95E0DE1CEABD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34348BAF-2E23-464A-9E48-95E0DE1CEABD}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{34348BAF-2E23-464A-9E48-95E0DE1CEABD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34348BAF-2E23-464A-9E48-95E0DE1CEABD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{34348BAF-2E23-464A-9E48-95E0DE1CEABD}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{FD56E671-AC5D-464D-A459-7A52665BB1A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD56E671-AC5D-464D-A459-7A52665BB1A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD56E671-AC5D-464D-A459-7A52665BB1A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD56E671-AC5D-464D-A459-7A52665BB1A5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {84E2F439-025D-4E01-BD2E-7E4BF3886529}
+	EndGlobalSection
+EndGlobal
